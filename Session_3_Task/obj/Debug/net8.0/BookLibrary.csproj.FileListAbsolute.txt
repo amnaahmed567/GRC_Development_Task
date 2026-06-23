@@ -1,0 +1,77 @@
+C:\Users\Qadri laptop\Downloads\New folder (6)\bin\Debug\net8.0\BookLibrary.exe
+C:\Users\Qadri laptop\Downloads\New folder (6)\bin\Debug\net8.0\BookLibrary.deps.json
+C:\Users\Qadri laptop\Downloads\New folder (6)\bin\Debug\net8.0\BookLibrary.runtimeconfig.json
+C:\Users\Qadri laptop\Downloads\New folder (6)\bin\Debug\net8.0\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\New folder (6)\bin\Debug\net8.0\BookLibrary.pdb
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\BookLibrary.AssemblyInfo.cs
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\BookLibrary.sourcelink.json
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\refint\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\BookLibrary.pdb
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\BookLibrary.genruntimeconfig.cache
+C:\Users\Qadri laptop\Downloads\New folder (6)\obj\Debug\net8.0\ref\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\BookLibrary.exe
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\BookLibrary.deps.json
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\BookLibrary.runtimeconfig.json
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\BookLibrary.pdb
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Qadri laptop\Downloads\task1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.AssemblyInfo.cs
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.sourcelink.json
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\staticwebassets\msbuild.BookLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\staticwebassets\msbuild.build.BookLibrary.props
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookLibrary.props
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookLibrary.props
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\scopedcss\bundle\BookLibrary.styles.css
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibr.433E06F3.Up2Date
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\refint\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.pdb
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\BookLibrary.genruntimeconfig.cache
+C:\Users\Qadri laptop\Downloads\task1\obj\Debug\net8.0\ref\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\BookLibrary.exe
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\BookLibrary.deps.json
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\BookLibrary.runtimeconfig.json
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\BookLibrary.pdb
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Qadri laptop\Downloads\BookLibrary\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfo.cs
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.sourcelink.json
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\staticwebassets\msbuild.BookLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\staticwebassets\msbuild.build.BookLibrary.props
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookLibrary.props
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookLibrary.props
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\scopedcss\bundle\BookLibrary.styles.css
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibr.433E06F3.Up2Date
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\refint\BookLibrary.dll
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.pdb
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\BookLibrary.genruntimeconfig.cache
+C:\Users\Qadri laptop\Downloads\BookLibrary\obj\Debug\net8.0\ref\BookLibrary.dll
