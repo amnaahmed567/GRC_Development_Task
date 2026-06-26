@@ -1,0 +1,49 @@
+<!-- TASK 2.1 — Project file converted from a console app to a Web API.
+
+     The "Sdk" attribute on the line below is the most important change.
+     - Old value: "Microsoft.NET.Sdk"      -> a plain console / class-library project
+     - New value: "Microsoft.NET.Sdk.Web"  -> a web project. This single change pulls
+       in ASP.NET Core (the web framework) and the web build/run tooling for free. -->
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <!-- We removed <OutputType>Exe</OutputType>.
+         A console app needs it to say "build me into a runnable .exe".
+         A web project is an executable by default, so the line is no longer needed. -->
+    <TargetFramework>net8.0</TargetFramework>
+
+    <!-- ImplicitUsings: lets us skip writing common "using ..." lines at the top of files
+         (e.g. System, System.Linq) because the compiler adds them automatically. -->
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- Nullable: turns on the compiler's null-safety checks (the string? / Book? you see). -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- A NuGet package = a reusable library someone else built that we pull into our project.
+       Swashbuckle.AspNetCore is the package that generates Swagger / OpenAPI docs:
+       it reads your API and produces an interactive web page where you can try every endpoint. -->
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+
+    <!-- TASK 4.1 — Pomelo is the MySQL provider for EF Core.
+         It depends on Microsoft.EntityFrameworkCore, so installing Pomelo
+         pulls EF Core in automatically. -->
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.2" />
+
+    <!-- TASK 4.7 — JWT Bearer authentication for ASP.NET Core.
+         Brings in the JwtBearer middleware + token validation. -->
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
+
+    <!-- TASK 4.7 — Lets us build/sign JwtSecurityToken objects in AuthController. -->
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.1" />
+
+    <!-- Needed for the `dotnet ef migrations` tooling in the next task.
+         Harmless to add now. -->
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

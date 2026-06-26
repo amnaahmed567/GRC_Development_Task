@@ -1,0 +1,25 @@
+{
+  // This file controls how the app starts when you run "dotnet run".
+  // It is only used during local development (it is not deployed).
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+
+      // Open the browser straight to the Swagger page when the app starts.
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+
+      // The address the server listens on. Locking it to port 5000 so the
+      // URL is predictable: http://localhost:5000
+      "applicationUrl": "http://localhost:5000",
+
+      "environmentVariables": {
+        // THIS is the important line: it puts the app in Development mode,
+        // which is what makes Swagger turn on (see the IsDevelopment() check
+        // in Program.cs).
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
